@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am an ALX Software Engineering Student<br>I love doing Hard things<br>Python 🤝🏽 Me😎
+ALX Software Engineering Student<br>I love doing Hard things<br>Python 🤝🏽 Me😎
 
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
