@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-ALX Software Engineering Student<br>I love doing Hard things<br>Python 🤝🏽 Me😎
+Mathematics graduate 🎓 | Software Engineer 💻 | Frontend Specialist 🚀 | Data Science & ML Enthusiast 📊 | ALX Africa Fellow 🌍 | Currently diving deep into Data Science & Machine Learning with Arewa Data Science 🔍✨
 
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
